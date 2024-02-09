@@ -1,0 +1,19 @@
+{
+  "name": "node.js_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "node.js_test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
